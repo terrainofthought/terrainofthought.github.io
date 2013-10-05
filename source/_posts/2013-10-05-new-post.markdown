@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Welp. Guess that's a start"
+date: 2013-10-05 22:52
+comments: true
+categories: 
+---
