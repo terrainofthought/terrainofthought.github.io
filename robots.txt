@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://terrainofthought.github.io/sitemap.xml 
